@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- "Settings" in the wallpaper picker opens the app so you can change the images. -->
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/wallpaper_description"
+    android:settingsActivity="com.example.pixelfoldwallpaper.MainActivity"
+    android:thumbnail="@mipmap/ic_launcher" />
